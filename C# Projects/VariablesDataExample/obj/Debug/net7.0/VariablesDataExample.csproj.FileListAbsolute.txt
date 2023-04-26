@@ -1,0 +1,15 @@
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\bin\Debug\net7.0\VariablesDataExample.exe
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\bin\Debug\net7.0\VariablesDataExample.deps.json
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\bin\Debug\net7.0\VariablesDataExample.runtimeconfig.json
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\bin\Debug\net7.0\VariablesDataExample.dll
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\bin\Debug\net7.0\VariablesDataExample.pdb
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.csproj.AssemblyReference.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.AssemblyInfoInputs.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.AssemblyInfo.cs
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.csproj.CoreCompileInputs.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.dll
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\refint\VariablesDataExample.dll
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.pdb
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\VariablesDataExample.genruntimeconfig.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\VariablesDataExample\obj\Debug\net7.0\ref\VariablesDataExample.dll
