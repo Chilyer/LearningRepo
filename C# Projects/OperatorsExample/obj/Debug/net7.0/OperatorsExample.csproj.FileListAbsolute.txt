@@ -1,0 +1,15 @@
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\bin\Debug\net7.0\OperatorsExample.exe
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\bin\Debug\net7.0\OperatorsExample.deps.json
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\bin\Debug\net7.0\OperatorsExample.runtimeconfig.json
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\bin\Debug\net7.0\OperatorsExample.dll
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\bin\Debug\net7.0\OperatorsExample.pdb
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.csproj.AssemblyReference.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.AssemblyInfoInputs.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.AssemblyInfo.cs
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.dll
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\refint\OperatorsExample.dll
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.pdb
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\OperatorsExample.genruntimeconfig.cache
+C:\Users\chily\OneDrive\Desktop\LocalRepo\LearningRepo\C# Projects\OperatorsExample\obj\Debug\net7.0\ref\OperatorsExample.dll
